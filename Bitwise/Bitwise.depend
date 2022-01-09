@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1641283765 source:c:\users\hwsin\documents\bitwise\test.c
+	<stdio.h>
+	<stdint.h>
+	<assert.h>
+	"uint_binstr.h"
+	"int_binstr.h"
+	"twiggle_bit.h"
+	"grab_bits.h"
+	"hexdump.h"
+
+1641283220 c:\users\hwsin\documents\bitwise\test.h
+	<stdio.h>
+	<stdint.h>
+
+1641180630 c:\users\hwsin\documents\bitwise\uint_binstr.h
+	<stdio.h>
+	<stdint.h>
+
+1641269544 source:c:\users\hwsin\documents\bitwise\uint_binstr.c
+	<stdio.h>
+	<stdint.h>
+
+1641283181 source:c:\users\hwsin\documents\bitwise\main.c
+	<stdio.h>
+	<stdint.h>
+	"test.h"
+
+1641180700 source:c:\users\hwsin\documents\bitwise\int_binstr.c
+	<stdio.h>
+	<stdint.h>
+
+1641180246 c:\users\hwsin\documents\bitwise\int_binstr.h
+	<stdio.h>
+	<stdint.h>
+
+1641239630 source:c:\users\hwsin\documents\bitwise\twiggle_bit.c
+	<stdio.h>
+	<stdint.h>
+	"twiggle_bit.h"
+
+1641237967 c:\users\hwsin\documents\bitwise\twiggle_bit.h
+
+1641240336 source:c:\users\hwsin\documents\bitwise\grab_bits.c
+	<stdio.h>
+	<stdint.h>
+
+1641240374 c:\users\hwsin\documents\bitwise\grab_bits.h
+
+1641283645 source:c:\users\hwsin\documents\bitwise\hexdump.c
+	<stdio.h>
+	<stdint.h>
+
+1641283631 c:\users\hwsin\documents\bitwise\hexdump.h
+
